@@ -1,4 +1,5 @@
 HOW TO PLAY
+
 ------------------------------------------------
 * Open terminal
 * Type in 'cd [path of this folder]'
