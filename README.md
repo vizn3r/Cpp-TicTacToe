@@ -1,7 +1,7 @@
 HOW TO PLAY
 ------------------------------------------------
 * Open terminal
-* Type in 'cd [path of this folder]'
+* Type in 'cd [path of program folder]'
 * Type in './tic'
 * Play!
 ------------------------------------------------
